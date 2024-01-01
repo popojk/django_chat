@@ -1,0 +1,9 @@
+django==4.2.6
+djangorestframework
+django-cors-headers
+django-crontab
+django-filter
+dj-rest-auth
+psycopg2
+python-dotenv
+channels == 3.0.4

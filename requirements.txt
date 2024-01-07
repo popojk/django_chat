@@ -7,3 +7,4 @@ dj-rest-auth
 psycopg2
 python-dotenv
 channels == 3.0.4
+daphne
